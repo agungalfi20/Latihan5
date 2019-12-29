@@ -72,3 +72,15 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 ![Latihan5_11](https://user-images.githubusercontent.com/57052780/71554969-5e8cdd00-2a58-11ea-8448-f5aab79b2858.png)
 
 **Output**
+
+![Latihan5_12](https://user-images.githubusercontent.com/57052780/71555017-5ed9a800-2a59-11ea-8be5-6231d70f3a3d.png)
+
+9. Menghapus Data
+* Sama seperti mengubah dan mencari data, untuk menghapus data yang dipilih :
+
+![Latihan5_13](https://user-images.githubusercontent.com/57052780/71555054-d4de0f00-2a59-11ea-871f-1002a49f5d40.png)
+
+* Data yang di hapus adalah data yang di input dalam variabel nama dimana berisi nama (string) yang mewakili data NIM, Nilai Tugas, UTS dan UAS.
+
+
+![Latihan5_14](https://user-images.githubusercontent.com/57052780/71555086-474eef00-2a5a-11ea-8097-a712db381bad.png)
