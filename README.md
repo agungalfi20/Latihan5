@@ -57,3 +57,18 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 ![Latihan5_8](https://user-images.githubusercontent.com/57052780/71554789-a90d5a00-2a56-11ea-8d18-0bbfd3f7ca5f.png)
 
 * Berikut kondisi yang digunakan untuk memasukan pilihan: 
+
+![Latihan5_9](https://user-images.githubusercontent.com/57052780/71554862-65ffb680-2a57-11ea-9c71-1450213ce8d8.png)
+
+**Output**
+
+![Latihan5_10](https://user-images.githubusercontent.com/57052780/71554890-aeb76f80-2a57-11ea-8a0e-382adf10cca9.png)
+
+8. Mencari Data
+* Perbandingan untuk mencari data yang akan diubah sama seperti cara mengubah data, hanya saja perintah ini digunakan untuk menampilkan data yang di input berdasarkan nama.
+
+* Berikut bagaimana mencari data yang sudah di inputkan sebelumnya :
+
+![Latihan5_11](https://user-images.githubusercontent.com/57052780/71554969-5e8cdd00-2a58-11ea-8448-f5aab79b2858.png)
+
+**Output**
